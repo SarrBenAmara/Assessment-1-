@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="939D5752-C0C6-431A-A46E-BB6634BF3BFD" version="0">
+<presentation availableOffline="1" guid="CCF8C002-5D0E-4829-A552-FA74D96ACAFF" version="0">
 	<info>
 		<title>Assessment</title>
 		<description/>
 	</info>
-	<files index="id16" thumbnail="id12" totalSize="4926305">
+	<files index="id16" thumbnail="id12" totalSize="4926445">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
